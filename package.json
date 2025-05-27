@@ -1,0 +1,24 @@
+{
+    "name": "lare-kit",
+    "version": "1.0.0",
+    "description": "React + Laravel CRUD kit for rapid UI/UX development Full stack Module",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.5.0",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@tailwindcss/vite": "^4.1.7",
+        "react-dom": "^19.1.0",
+        "react-icons": "^5.5.0",
+        "react-router": "^7.6.1",
+        "react-router-dom": "^7.6.1",
+        "tailwindcss": "^4.1.7"
+    }
+}
