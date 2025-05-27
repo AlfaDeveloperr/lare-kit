@@ -1,6 +1,6 @@
 {
     "name": "lare-kit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "React + Laravel CRUD kit for rapid UI/UX development Full stack Module",
     "type": "module",
     "scripts": {
@@ -20,5 +20,20 @@
         "react-router": "^7.6.1",
         "react-router-dom": "^7.6.1",
         "tailwindcss": "^4.1.7"
-    }
+    },
+    "main": "vite.config.js",
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlfaDeveloperr/lare-kit.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlfaDeveloperr/lare-kit/issues"
+    },
+    "homepage": "https://github.com/AlfaDeveloperr/lare-kit#readme"
 }
