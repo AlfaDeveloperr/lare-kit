@@ -1,6 +1,6 @@
 {
     "name": "lare-kit",
-    "version": "1.0.1",
+    "version": "3.0.0",
     "description": "React + Laravel CRUD kit for rapid UI/UX development Full stack Module",
     "type": "module",
     "scripts": {
