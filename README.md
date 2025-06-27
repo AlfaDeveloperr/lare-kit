@@ -100,6 +100,6 @@
 * cd lare-kit
 * php artisan serve
 * npm run dev
-# You can launch the project by running the following commands
+# You can start the project by running the above commands
 
 **Credits and Sponsors Thanks to all the Laravel and open source communities that made this possible. Special thanks to lare-kit contributors and sponsors.**
