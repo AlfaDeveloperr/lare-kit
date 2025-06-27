@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 
 // Let web.php serve only the frontend
 Route::get('/{any}', function () {
-    return view('welcome');
+    return view('welcome'); // React root blade dosyası
 })->where('any', '.*');

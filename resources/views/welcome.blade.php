@@ -7,7 +7,7 @@
     <title>React + Laravel</title>
     <link rel="shortcut icon" href="https://jecas.cz/files/article/vite.png" type="image/x-icon" />
     @viteReactRefresh
-    @vite(['resources/js/main.jsx'])
+    @vite(['resources/js/main.jsx','resources/css/app.css'])
 </head>
 
 <body>
