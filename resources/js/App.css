@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@source "../views";
+
+::selection {
+    @apply bg-red-600 text-sky-400;
+    /* Tailwind’in hazır renk sınıfları */
+}
