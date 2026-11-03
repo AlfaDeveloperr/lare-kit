@@ -6,7 +6,7 @@ function Home() {
       <div className="min-h-screen bg-gradient-to-r from-gray-900 via-indigo-900 to-gray-900 flex items-center justify-center">
         <div className="text-center px-4 sm:px-6 lg:px-8">
           <h1 className="text-5xl sm:text-7xl font-bold text-white drop-shadow-lg">
-            Welcome to Laravel + React
+            Welcome to Laravel + React = Larekit
           </h1>
           <p className="mt-6 text-lg text-gray-300">
             You don't need to deal with DOM manipulation anymore. <br></br>Thanks to this module, you can easily program UI AND UX, both frontend and backend professional applications. Thanks to this module! 🦾
